@@ -1,4 +1,4 @@
-## OrganEase – Organ Donation & Transplant Management System
+Organ Donation Management System
 
 ### Overview
 
