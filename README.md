@@ -97,9 +97,6 @@ The following screenshots demonstrate different parts of the application interfa
 <p align="center">
   <img src="./Screenshots/5.jpeg" alt="Application Screenshot" />
 </p>
-<p align="center">
-  <img src="./Screenshots/6.jpeg" alt="Application Screenshot" />
-</p>
 
 ---
 
@@ -109,7 +106,8 @@ OrganEase was developed as a learning-focused full-stack project to understand M
 
 ---
 
-### Note
+### Author
+Shirani Agarwal
 
 This project is intended for educational and demonstration purposes and does not represent a production-ready medical system.
 
